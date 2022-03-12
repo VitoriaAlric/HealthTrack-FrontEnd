@@ -1,0 +1,44 @@
+.text{
+    font-size: 50px;
+    color: #9932CC;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 90px;
+}
+ .textInfo{
+    font-size: 25px;
+    color: #cd8fec;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.buttons{
+    min-width: 400px;
+    min-height: 70px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    border-radius: 1000px;
+    border-width: 3px;
+    position: absolute;
+    margin: -200px;
+   }
+   
+.button-email {
+    color: rgba(255, 255, 255, 0.753);
+    background: #c9b3d4;
+    border-color: #9932CC;
+    box-shadow: 12px 12px 24px #976688;
+    margin-top: 50px;
+}
+.button-enviar {
+    background: #9932CC;
+    color: white;
+    margin-top: 150px;
+    border-color: #9932CC;
+  
+}

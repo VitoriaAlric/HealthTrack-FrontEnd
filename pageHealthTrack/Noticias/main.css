@@ -1,0 +1,29 @@
+.text{
+    font-size: 30px;
+    color: #9932CC;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 90px;
+}
+.textInfo{
+    font-size: 20px;
+    color: #cd8fec;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.textCard{
+    font-size: 20px;
+    color: #9932CC;
+
+}
+.noticias{
+    display: flex;
+    justify-content: flex-start;
+}
+.noticias img,
+.noticias div{
+    padding: 10px
+}
+
