@@ -1,5 +1,5 @@
-# HealthTrack-FrontEnd
-Projeto full stack desenvolvido na FIAP, primeiras páginas.
+# HealthTrack
+Projeto full stack desenvolvido na FIAP, 1° semestre.
 
 <a href="https://imgur.com/mzWm3nZ"><img src="https://i.imgur.com/mzWm3nZ.png" title="source: imgur.com" /></a>
 
